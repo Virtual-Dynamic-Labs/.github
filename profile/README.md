@@ -18,7 +18,7 @@ Please follow below standards to contribute your code.
 - Declare variables close to where they are used, preferably where first initialized
 - Make your comments terse and informative rather than opinionated and narrative
 - Check parameters and return early
-- Format code according to ServiceNow standards
+- Format code according to Virtual Dynamic Labs coding standards
 - When modifying code, leave code better than you found it
 - Eliminate all warnings
 
